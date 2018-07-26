@@ -222,6 +222,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
+  jemoji
   tzinfo-data
 
 BUNDLED WITH
